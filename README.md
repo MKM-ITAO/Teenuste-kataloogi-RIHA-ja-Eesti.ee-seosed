@@ -4,5 +4,5 @@
 Projekti tulemusel tekib:
 
 - avalike teenuste kataloog, riha ja eesti.ee andmevahetuse __arhitektuuridokument__
-- avalike teenuste kataloogis, rihas ja eesti.ees olevate teenuste __definitsioonid___
+- avalike teenuste kataloogis, rihas ja eesti.ees olevate teenuste __definitsioonid__
 
