@@ -30,3 +30,8 @@ Arutati:
 - kasutame avaarenduse mudelit; materjalid koondame GitHubi.
 
 
+###Materjale
+- [Best Practice: (Re)use federated tools](https://www.w3.org/2013/share-psi/bp/ft/ "https://www.w3.org/2013/share-psi/bp/ft/")
+
+
+
