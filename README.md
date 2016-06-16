@@ -8,7 +8,7 @@ Kaardistada avalike teenuste kataloogi, Eesti.ee ja RIHA seosed ning luua alus a
 - asutuste teenuste kataloogid.
 
 Projekti tulemusel tekib:
-- avalike teenuste kataloog, RIHA ja eesti.ee andmevahetuse __arhitektuuridokument__
+- avalike teenuste kataloog, RIHA ja eesti.ee andmevahetuse __[arhitektuuridokument](https://github.com/MKM-ITAO/Teenuste-kataloogi-RIHA-ja-Eesti.ee-seosed/blob/master/Avalikud%20teenused%20v%200%2015.pdf "https://github.com/MKM-ITAO/Teenuste-kataloogi-RIHA-ja-Eesti.ee-seosed/blob/master/Avalikud%20teenused%20v%200%2015.pdf")__
 - avalike teenuste kataloogis, RIHAs ja eesti.ees olevate teenuste ühtlustatud __sõnastik__
 - kolme portaali ülese (sidus-) __menetluse__ kaardistus 
 
