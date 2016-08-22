@@ -1,7 +1,9 @@
 ### JSON-LD tutvustus
 
 ````
-Riigi infosüsteemi kataloog pakub usaldusväärset ja kiiret teave riigi infosüsteemi kohta. Kasutajate rahulolu kataloogiga 2014. a oli 2,7.
+  Riigi infosüsteemi kataloog pakub usaldusväärset ja
+  kiiret teave riigi infosüsteemi kohta. Kasutajate 
+  rahulolu kataloogiga 2014. a oli 2,7.
 ````
 
 Seda inimkeelset teavet on raske masinaga (arvutiga) töödelda. JSON on praegu ülipopulaarne lightweight, lihtne vormingukeel, millega kirjeldusele saab anda rohkem struktuuri:
